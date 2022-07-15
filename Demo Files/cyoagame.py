@@ -13,3 +13,6 @@ if choice == "l":
 if choice == "r":
     print("He turned right and found a trap!")
     print("He fell to his death.")
+
+print("The End.")
+
