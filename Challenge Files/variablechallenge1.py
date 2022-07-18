@@ -1,4 +1,4 @@
-import turtle
+from turtle import *
 
 # 1. Change the value my_variable to make the turtle draw a square!
 # 2. Change the value my_variable to make the turtle draw a triangle!
@@ -8,10 +8,10 @@ import turtle
 my_variable = 10
 size = 10
 
-turtle.forward(100)
-turtle.left(my_variable)
-turtle.forward(100)
-turtle.left(my_variable)
-turtle.forward(100)
-turtle.left(my_variable)
-turtle.forward(100)
+forward(100)
+left(my_variable)
+forward(100)
+left(my_variable)
+forward(100)
+left(my_variable)
+forward(100)
